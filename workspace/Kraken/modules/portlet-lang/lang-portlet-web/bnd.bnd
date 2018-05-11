@@ -1,0 +1,5 @@
+Bundle-Name: lang-portlet-web
+Bundle-SymbolicName: com.client.projet.portlet.lang.web
+Bundle-Version: 1.0.0
+-liferay-aggregate-resource-bundles: \
+	com.client.projet.portlet.lang.lang

@@ -1,4 +1,4 @@
 Bundle-Name: Portlet-with-config-panel
-Bundle-SymbolicName: com.client.projet.portlet
+Bundle-SymbolicName: com.client.projet.portlet.wcp
 Bundle-Version: 1.0.0
 Export-Package: com.client.projet.portlet.constants
